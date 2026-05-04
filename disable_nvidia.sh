@@ -1,3 +1,6 @@
+#  SPDX-License-Identifier: Apache License 2.0 
+# Copyright (c) 2026 Oliver
+
 #!/bin/bash
 
 # 禁用NVIDIA独立显卡脚本
